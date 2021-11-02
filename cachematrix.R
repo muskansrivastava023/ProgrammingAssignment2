@@ -1,5 +1,6 @@
 source("path/to/file/assessment3.R")
 
+# call makeCacheMatrix without arguments
 a <- makeCacheMatrix();
 summary(a);
 #>              Length Class  Mode
